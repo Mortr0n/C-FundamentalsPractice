@@ -1,0 +1,15 @@
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\bin\Debug\net6.0\boxAndUnbox.exe
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\bin\Debug\net6.0\boxAndUnbox.deps.json
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\bin\Debug\net6.0\boxAndUnbox.runtimeconfig.json
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\bin\Debug\net6.0\boxAndUnbox.dll
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\bin\Debug\net6.0\ref\boxAndUnbox.dll
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\bin\Debug\net6.0\boxAndUnbox.pdb
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.csproj.AssemblyReference.cache
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.AssemblyInfoInputs.cache
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.AssemblyInfo.cs
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.csproj.CoreCompileInputs.cache
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.dll
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\ref\boxAndUnbox.dll
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.pdb
+C:\Users\chris.g.morton\studyProjects\C#\fundamentals\boxAndUnbox\obj\Debug\net6.0\boxAndUnbox.genruntimeconfig.cache
