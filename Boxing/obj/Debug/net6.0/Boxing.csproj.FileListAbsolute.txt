@@ -1,0 +1,15 @@
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\bin\Debug\net6.0\Boxing.exe
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\bin\Debug\net6.0\Boxing.deps.json
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\bin\Debug\net6.0\Boxing.runtimeconfig.json
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\bin\Debug\net6.0\Boxing.dll
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\bin\Debug\net6.0\ref\Boxing.dll
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\bin\Debug\net6.0\Boxing.pdb
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.csproj.AssemblyReference.cache
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.AssemblyInfoInputs.cache
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.AssemblyInfo.cs
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.dll
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\ref\Boxing.dll
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.pdb
+C:\Users\chris.g.morton\studyProjects\C#\Boxing\obj\Debug\net6.0\Boxing.genruntimeconfig.cache
